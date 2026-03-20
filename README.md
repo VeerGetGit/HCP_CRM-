@@ -114,10 +114,7 @@ The AI assistant is designed to understand natural language. Here are some examp
 - **Deleting records:** "Delete my last interaction with Dr. Brown."
 
 ## 📸 Screenshots
-
-*(Placeholders for screenshots)*
-![Dashboard Placeholder](https://via.placeholder.com/800x450?text=HCP+CRM+Dashboard)
-![Chat Interface Placeholder](https://via.placeholder.com/800x450?text=AI+Chat+Interface)
+![Dashboard Placeholder](https://github.com/user-attachments/assets/e4645071-e6e2-4666-9a32-05946510885d)
 
 ## 📄 License
 
