@@ -115,7 +115,7 @@ export default function AIAssistant() {
         }));
       }
 
-    } catch (err) {
+    } catch {
       dispatch(setError("Failed to fetch AI response"));
       dispatch(addMessage({
         role: "ai",
