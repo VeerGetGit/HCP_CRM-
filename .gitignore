@@ -1,0 +1,83 @@
+# ===========================
+# ENVIRONMENT & SECRETS
+# ===========================
+.env
+.env.*
+!.env.example
+*.env
+
+# ===========================
+# PYTHON / FASTAPI BACKEND
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs
+*.log
+logs/
+
+# Database files (SQLite if used locally)
+*.db
+*.sqlite
+*.sqlite3
+
+# ===========================
+# NODE / REACT FRONTEND
+# ===========================
+node_modules/
+dist/
+build/
+
+# Vite cache
+.vite/
+*.local
+
+# npm / yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ===========================
+# IDE & EDITOR
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.suo
+*.user
+.DS_Store
+Thumbs.db
+
+# ===========================
+# MISC
+# ===========================
+*.bak
+*.tmp
+*.temp
